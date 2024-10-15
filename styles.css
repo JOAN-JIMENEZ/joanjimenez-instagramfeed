@@ -1,0 +1,41 @@
+body{
+    background: #bdbdbd;
+    margin: 0;
+}
+
+
+header{
+    text-align: center;
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+header h1{
+   margin: 0
+}
+
+div.post {
+    background: white;
+}
+div.post img {
+   width: 100%;
+}
+
+
+div.post h2, div.post p, div.post span {
+    padding: 10px;
+ }
+
+
+div.container {
+    width: 600px;
+    margin: auto
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    }
+    
